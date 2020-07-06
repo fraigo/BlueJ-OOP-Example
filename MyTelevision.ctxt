@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MyTelevision
+comment0.text=\n\ Write\ a\ description\ of\ class\ MyTelevision\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ on()
+comment2.params=
+comment2.target=void\ off()
+comment3.params=ch
+comment3.target=void\ setChannel(int)
+comment4.params=vol
+comment4.target=void\ setVolume(int)
+numComments=5
